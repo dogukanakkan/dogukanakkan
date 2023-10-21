@@ -18,7 +18,9 @@ Passionate about backend development and proficient in Java, I am a software dev
      *Other Skills: Data Structures, Algorithms, Object-Oriented Programming
  
 - 🔭 I’m currently working on Backend Developer
+
 - 🌱 I’m currently learning Artifical Intelligence
+
 
 ![dogukanakkan's github stats](https://github-readme-stats.vercel.app/api?username=dogukanakkan&show_icons=true)
 
