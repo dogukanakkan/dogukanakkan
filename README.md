@@ -1,16 +1,19 @@
 ### Hi there 👋
+I'm Dogukan Akkan
 
-<!--
-**dogukanakkan/dogukanakkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about backend development and proficient in Java, I am a software developer constantly honing my skills in the field of artificial intelligence. I enjoy tackling technical challenges with my problem-solving abilities and crafting innovative solutions. Currently, my focus lies in deepening my knowledge of artificial intelligence and grasping applications in this domain.
 
-Here are some ideas to get you started:
+  SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Programming Languages: Java, Python, SQL
+*Technologies and Tools: Spring, Hibernate, RESTful API, Maven, Git
+*Artificial Intelligence and Machine Learning: TensorFlow, Keras, OpenCV
+*Databases: MySQL, PostgreSQL, MongoDB
+*Development Methodologies: Agile, Scrum
+*Other Skills: Data Structures, Algorithms, Object-Oriented Programming
+
+- 🔭 I’m currently working on Backend Developer
+- 🌱 I’m currently learning Artifical Intelligence
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?dogukanakkan&show_icons=true&theme=radical)
