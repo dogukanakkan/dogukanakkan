@@ -16,4 +16,4 @@ Passionate about backend development and proficient in Java, I am a software dev
 - 🌱 I’m currently learning Artifical Intelligence
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?dogukanakkan&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?dogukanakkan&show_icons=true&theme=radical)
