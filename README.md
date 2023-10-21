@@ -17,3 +17,5 @@ Passionate about backend development and proficient in Java, I am a software dev
 
 
 ![dogukanakkan's github stats](https://github-readme-stats.vercel.app/api?username=dogukanakkan&hide=contribs,prs)
+
+![dogukanakkan's github stats](https://github-readme-stats.vercel.app/api?username=dogukanakkan&show_icons=true)
