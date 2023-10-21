@@ -18,8 +18,7 @@ Passionate about backend development and proficient in Java, I am a software dev
 
      *Other Skills: Data Structures, Algorithms, Object-Oriented Programming
 
-[linkedin]: https://www.linkedin.com/in/dogukanakkan-4b513a1a9/
- 
+
 - 🔭 I’m currently working on Backend Developer
 
 - 🌱 I’m currently learning Artifical Intelligence
