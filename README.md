@@ -6,10 +6,15 @@ Passionate about backend development and proficient in Java, I am a software dev
                       SKILLS
 
      *Programming Languages: Java, Python, SQL
+
      *Technologies and Tools: Spring, Hibernate, RESTful API, Maven, Git
+
      *Artificial Intelligence and Machine Learning: TensorFlow, Keras, OpenCV
+
      *Databases: MySQL, PostgreSQL, MongoDB
+
      *Development Methodologies: Agile, Scrum
+
      *Other Skills: Data Structures, Algorithms, Object-Oriented Programming
  
 - 🔭 I’m currently working on Backend Developer
