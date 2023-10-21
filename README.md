@@ -3,8 +3,6 @@ I'm Dogukan Akkan
 
 Passionate about backend development and proficient in Java, I am a software developer constantly honing my skills in the field of artificial intelligence. I enjoy tackling technical challenges with my problem-solving abilities and crafting innovative solutions. Currently, my focus lies in deepening my knowledge of artificial intelligence and grasping applications in this domain.
 
-[linkedin]: https://www.linkedin.com/in/dogukan-akkan-4b513a1a9/
-
 
                       SKILLS
 
@@ -19,6 +17,8 @@ Passionate about backend development and proficient in Java, I am a software dev
      *Development Methodologies: Agile, Scrum
 
      *Other Skills: Data Structures, Algorithms, Object-Oriented Programming
+
+[linkedin]: https://www.linkedin.com/in/dogukanakkan-4b513a1a9/
  
 - 🔭 I’m currently working on Backend Developer
 
